@@ -1,0 +1,7 @@
+E:\Petrik 2023 14SL\C#\Dolgozat01_GaraiGabor14SL\Dolgozat01_GaraiGabor14SL\bin\Debug\Dolgozat01_GaraiGabor14SL.exe.config
+E:\Petrik 2023 14SL\C#\Dolgozat01_GaraiGabor14SL\Dolgozat01_GaraiGabor14SL\bin\Debug\Dolgozat01_GaraiGabor14SL.exe
+E:\Petrik 2023 14SL\C#\Dolgozat01_GaraiGabor14SL\Dolgozat01_GaraiGabor14SL\bin\Debug\Dolgozat01_GaraiGabor14SL.pdb
+E:\Petrik 2023 14SL\C#\Dolgozat01_GaraiGabor14SL\Dolgozat01_GaraiGabor14SL\obj\Debug\Dolgozat01_GaraiGabor14SL.csproj.AssemblyReference.cache
+E:\Petrik 2023 14SL\C#\Dolgozat01_GaraiGabor14SL\Dolgozat01_GaraiGabor14SL\obj\Debug\Dolgozat01_GaraiGabor14SL.csproj.CoreCompileInputs.cache
+E:\Petrik 2023 14SL\C#\Dolgozat01_GaraiGabor14SL\Dolgozat01_GaraiGabor14SL\obj\Debug\Dolgozat01_GaraiGabor14SL.exe
+E:\Petrik 2023 14SL\C#\Dolgozat01_GaraiGabor14SL\Dolgozat01_GaraiGabor14SL\obj\Debug\Dolgozat01_GaraiGabor14SL.pdb
